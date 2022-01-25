@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://shaiderx.github.io',
   title: 'JS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Haider Bokhari',
+  role: 'Computer Science Student',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'An undergraduate student passionate about the intersections of artificial intelligence, machine intelligence and software development. Experienced in multiple coding languages, Unity Game Design, as well as web and app development. Always eager to grow and improve in any way possible to be the best version of myself. Extracurricular hobbies include boxing, weightlifting, gaming, and coding.',
+  resume: 'https://drive.google.com/file/d/1m4xM6B1JwNz3m79K7uzsyeeyBkzE7ru-/view?usp=sharing',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/haider-bokhari-4b6852218/',
+    github: 'https://github.com/SHaiderX',
   },
 }
 
@@ -21,28 +21,26 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Galaxy Royale',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A full fledged android puzzle game made by myself using Unity. All of the coding, design, and conceptualization for the game was done by me. This game was later recognised by one of Google\'s department "NBS Scaled" as a game of uniquness and high potential.',
+    stack: ['Unity', 'C#', 'PhotoShop'],
+    livePreview: 'https://play.google.com/store/apps/details?id=com.XcelsiorGames.GalaxyRoyale',
   },
   {
-    name: 'Project 2',
+    name: 'Decked.js',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A full fledged JavaScript library coded by me. This library allows the user to implement dragable cards on their webpage which have many uniqe properties. More information can be found in the library documentation.',
+    stack: ['JavaScript', 'JQuery', 'CSS', 'HTML'],
+    sourceCode: 'https://deckedjs.herokuapp.com/decked.js',
+    livePreview: 'https://deckedjs.herokuapp.com/',
   },
   {
-    name: 'Project 3',
+    name: 'Append App',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'An online forum made for students to help them connect with eachother. Students have options to join and create communities, participate in discussions, and add eachother to grow their friend base. This project was done in a group of 3, where I was responsible for both the frontend and backend.',
+    stack: ['JavaScript', 'React', 'Node.js', 'MongoDB', 'JQuery'],
+    livePreview: 'https://appendapp.herokuapp.com/',
   },
 ]
 
@@ -52,20 +50,21 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
+  'C#',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'JQuery',
+  'Unity',
+  'PhotoShop',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Assembly Code',
+  'C',
+  'Python',
+  'Game Design'
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'SHaiderHB@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
