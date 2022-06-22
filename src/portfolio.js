@@ -9,10 +9,10 @@ const about = {
   name: 'Haider Bokhari',
   role: 'Computer Science Student',
   description:
-    'An undergraduate student passionate about the intersections of artificial intelligence, machine intelligence and software development. Experienced in multiple coding languages, Unity Game Design, as well as web and app development. Always eager to grow and improve in any way possible to be the best version of myself. Extracurricular hobbies include boxing, weightlifting, gaming, and coding.',
-  resume: 'https://drive.google.com/file/d/1m4xM6B1JwNz3m79K7uzsyeeyBkzE7ru-/view?usp=sharing',
+    'A result-oriented undergraduate student passionate about the intersections of artificial intelligence, game design, and software development. Experienced in multiple coding languages, Unity Game Design, as well as web and app development. Always eager to grow and improve in any way possible to be the best version of myself. Extracurricular hobbies include boxing, weightlifting, gaming, and coding.',
+  resume: 'https://drive.google.com/file/d/1ylKc3s7npwJxBhUsLxWaPV0BotdahlYI/view?usp=sharing',
   social: {
-    linkedin: 'https://www.linkedin.com/in/haider-bokhari-4b6852218/',
+    linkedin: 'https://www.linkedin.com/in/haiderbok',
     github: 'https://github.com/SHaiderX',
   },
 }
