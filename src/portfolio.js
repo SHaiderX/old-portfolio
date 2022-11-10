@@ -10,7 +10,7 @@ const about = {
   role: 'Computer Science Student',
   description:
     'A result-oriented undergraduate student passionate about the intersections of artificial intelligence, game design, and software development. Experienced in multiple coding languages, Unity Game Design, as well as web and app development. Always eager to grow and improve in any way possible to be the best version of myself. Extracurricular hobbies include boxing, weightlifting, gaming, and coding.',
-  resume: 'https://drive.google.com/file/d/1ylKc3s7npwJxBhUsLxWaPV0BotdahlYI/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1xTPM2psIVVVr-n2NeNelN9-5OmTmMHlH/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/haiderbok',
     github: 'https://github.com/SHaiderX',
@@ -21,10 +21,17 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Unity Game Development Team Lead',
+    description:
+      '• Led and organized a team of 5 developers to design a unity based mobile game. \n• Delegated tasks and assigned roles based on member\'s strengths and weaknesses. \n• Planned and participated in meetings and set deadlines to help team members stay on track. \n• Contributed to game code and overlooked design choices to ensure all game requirements are met.',
+    stack: ['Unity', 'C#', 'PhotoShop', 'Blender']
+  },
+  {
     name: 'Galaxy Royale',
     description:
-      'A full fledged android puzzle game made by myself using Unity. All of the coding, design, and conceptualization for the game was done by me. This game was later recognised by one of Google\'s department "NBS Scaled" as a game of uniquness and high potential.',
+      'An android puzzle game recognized by Google\'s "NBS Scaled" as a game of high uniqueness and potential. Self taught and personally programmed, designed, and optimized.',
     stack: ['Unity', 'C#', 'PhotoShop'],
+    sourceCode: 'https://github.com/SHaiderX/GRX-Game-Development',
     livePreview: 'https://play.google.com/store/apps/details?id=com.XcelsiorGames.GalaxyRoyale',
   },
   {
@@ -42,6 +49,13 @@ const projects = [
     stack: ['JavaScript', 'React', 'Node.js', 'MongoDB', 'JQuery'],
     livePreview: 'https://appendapp.herokuapp.com/',
   },
+  {
+    name: 'Event Schedule Planner',
+    description:
+      'A schedule planner that helps organise, plan, and manage events designed by a team of 7.',
+    sourceCode: 'https://github.com/SHaiderX/Event-Schedule-Planner',
+    stack: ['Java'],
+  },
 ]
 
 const skills = [
@@ -53,6 +67,7 @@ const skills = [
   'C#',
   'React',
   'JQuery',
+  "Vue.js",
   'Unity',
   'PhotoShop',
   'Git',
