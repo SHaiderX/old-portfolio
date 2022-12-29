@@ -10,7 +10,7 @@ const about = {
   role: 'Computer Science Student',
   description:
     'A result-oriented undergraduate student passionate about the intersections of artificial intelligence, game design, and software development. Experienced in multiple coding languages, Unity Game Design, as well as web and app development. Always eager to grow and improve in any way possible to be the best version of myself. Extracurricular hobbies include boxing, weightlifting, gaming, and coding.',
-  resume: 'https://drive.google.com/file/d/1ev1dmXVHbQdssreQzKObcKkzkmnpDpxY/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1xTPM2psIVVVr-n2NeNelN9-5OmTmMHlH/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/haiderbok',
     github: 'https://github.com/SHaiderX',
