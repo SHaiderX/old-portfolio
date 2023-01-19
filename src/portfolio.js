@@ -10,7 +10,7 @@ const about = {
   role: 'Computer Science Student',
   description:
     'A result-oriented undergraduate student passionate about the intersections of artificial intelligence, game design, and software development. Experienced in multiple coding languages, Unity Game Design, as well as web and app development. Always eager to grow and improve in any way possible to be the best version of myself. Extracurricular hobbies include boxing, weightlifting, gaming, and coding.',
-  resume: 'https://drive.google.com/file/d/1xTPM2psIVVVr-n2NeNelN9-5OmTmMHlH/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1xTPM2psIVVVr-n2NeNelN9-5OmTmMHlH/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/haiderbok',
     github: 'https://github.com/SHaiderX',
@@ -37,7 +37,7 @@ const projects = [
   {
     name: 'Decked.js',
     description:
-      'A full fledged JavaScript library coded by me. This library allows the user to implement dragable cards on their webpage which have many uniqe properties. More information can be found in the library documentation.',
+      'A full fledged JavaScript library coded by me. This library allows the user to implement dragable cards on their webpage which have many uniqe properties. More information can be found in the library documentation. *Preview might be unable due to Heroku removing their free plan*',
     stack: ['JavaScript', 'JQuery', 'CSS', 'HTML'],
     sourceCode: 'https://deckedjs.herokuapp.com/decked.js',
     livePreview: 'https://deckedjs.herokuapp.com/',
